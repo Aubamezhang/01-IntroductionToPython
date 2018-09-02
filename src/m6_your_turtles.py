@@ -62,7 +62,7 @@ for r in range(10):
     red_turtle.forward(5)
     red_turtle.right(10)
     red_turtle.pen_down()
-    size = size - 12
+    size = size - 10
 
 
 
