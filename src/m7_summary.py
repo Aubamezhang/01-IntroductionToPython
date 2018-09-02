@@ -53,6 +53,6 @@ blue_turtle.go_to(rg.Point(100, -40))
 blue_turtle.pen_down()
 blue_turtle.pen = rg.Pen('green', 10)
 blue_turtle.left(180)
-blue_turtle.forward(150)
+blue_turtle.forward(151)
 
 window.close_on_mouse_click()
