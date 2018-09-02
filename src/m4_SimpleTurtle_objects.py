@@ -154,7 +154,7 @@ jesus = rg.SimpleTurtle('turtle')
 jesus.pen = rg.Pen('blue', 30)
 jesus.speed = 10
 
-jesus.forward(60)
+jesus.forward(50)
 jesus.left(50)
 jesus.backward(10)
 
